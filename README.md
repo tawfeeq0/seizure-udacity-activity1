@@ -1,0 +1,1 @@
+# seizure-udacity-activity1
